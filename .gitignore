@@ -1,0 +1,9 @@
+deps/
+emulator/fakebox
+emulator/controlchaind
+emulator/ccm-build/
+emulator/*.dSYM/
+emulator/.bus
+emulator/.box*.settings
+emulator/*.log
+.DS_Store
